@@ -1,0 +1,39 @@
+{
+    "appetizers": {
+        "name": ["salmon tacos", "finger steaks", "stuffed mushrooms"],
+        "salmon tacos": ["grilled salmon", "tortilla", "spicy aoli sauce"],
+        "finger steaks": ["steak strips", "beer batter", "fries"],
+        "stuffed mushrooms": ["portobello mushrooms", "cheddar cheese", "hambruger"],
+        "description": "Our Apps are the best in town!"
+    },
+
+     "cold sandwiches": {
+         "name": ["turkey", "ham", "chicken"],
+         "turkey": ["turkey", "whole wheat bread", "chips"],
+         "ham": ["sliced ham", "mustard", "white bread"],
+         "chicken": ["chicken", "mayo", "pepper"],
+         "description": "Try one of our delicious cold cut sandwiches!"
+     },
+    "hot sandwiches": {
+        "name": ["pulled pork", "teriyaki chicken", "philly cheese"],
+        "pulled pork": ["pork", "horseradish sauce", "colseslaw" ],
+        "teriyaki chicken": ["chicken", "tryiyaki sauce", "seasonings"],
+        "philly cheese": ["steak", "onions", "provolone cheese"],
+        "description": "Feeling chilly? Have one of our hot sanwiches!"
+    },
+    "desserts": {
+        "name": ["creme brulee", "apple tart", "chocolate mousse"],
+        "creme brulee": ["custard", "sugar", "vanilla"],
+        "apple tart": ["apples", "pie crust", "caramel"],
+        "chocolate mousse": ["chocolate", "sugar", "almond shavings"],
+        "description": "Try one of our fantastic desserts!"
+    },
+    "drinks": {
+        "name": ["sidecar", "soda", "blue dolphin"],
+        "sidecar": ["cognac", "lemon juice", "triple sec"],
+        "soda": ["spite", "coke", "rootbeer"],
+        "blue dolphin": "It's just water!",
+        "description": "Come on in and have a drink!"
+        
+    }
+}
