@@ -1,0 +1,68 @@
+html {
+    height: 100%;
+    background-image: linear-gradient(rgb(245, 4, 44), rgb(19, 19, 19));
+    background-repeat: no-repeat;
+    background-size: auto;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+    background-color: whitesmoke;
+    margin-right: 10rem;
+    margin-left: 10rem;
+    padding: 15px;
+    border-radius: 15px;
+    border-bottom: 5px solid black;
+    text-align: center;
+    font-size: 3.5em;
+    color: rgb(26, 26, 26);
+}
+
+h4 {
+    padding: 10px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    padding: 100px;
+}
+
+input {
+    width: 600px;
+    height: 40px;
+    border: none;
+    font-size: 1.5em;
+    box-shadow: 10px 10px 10px rgb(12, 12, 12);
+    padding-left: 10px;
+}
+
+button {
+    font-size: 1.5em;
+    background-color: white;
+    border: none;
+    width: 100px;
+    height: 42px;
+    box-shadow: 10px 10px 10px rgb(12, 12, 12);
+}
+
+.alltasks {
+    background-color: whitesmoke;
+    border-radius: 25px;
+    padding: 25px;
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+ul {
+    list-style-type: circle;
+    font-size: 25px;
+}
+
+li {
+    border-bottom: 2px solid #ae9b9b;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    font-size: 1.3em;
+}
