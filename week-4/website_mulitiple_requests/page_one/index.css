@@ -1,0 +1,38 @@
+html {
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Patrick Hand',
+    cursive;
+    background-color: black;
+    background-image:url("../images/rick-and-morty-2.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-position-y: 100px;
+}
+
+#nav1 {
+    font-size: 25px;
+    padding: 5px;
+    text-shadow: 1px 15px 20px lime;
+}
+
+#title1 {
+    color: lime;
+    font-size: 100px;
+    text-shadow: 5px 5px purple;
+    margin-bottom: 450px;
+}
+
+#text1 {
+    color: purple;
+    font-size: 60px;
+    text-shadow: 2px 2px lime;
+}
+
+#button1 {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: purple;
+    border-radius: 50%;
+    box-shadow: 2px 2px 50px lime;
+}
