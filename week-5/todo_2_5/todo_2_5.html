@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>Todo List 2-5</title>
+</head>
+
+<body>
+    <div class="enterBox">
+        <h1>TO-DO LIST</h1>
+        <form id="forms">
+            <input class="addtodo" type="text" name="title" placeholder="Enter New Task...">
+            <br><br>
+            <input class="addtodo" type="text" name="description" placeholder="Description...">
+            <br><br>
+            <input class="addtodo" type="number" name="price" placeholder="Price...">
+            <br><br>
+            <button type="submit" id="submit">ADD</button>
+        </form>
+        <div class="alltasks">
+            <ul></ul>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js"
+        integrity="sha512-bZS47S7sPOxkjU/4Bt0zrhEtWx0y0CRkhEp8IckzK+ltifIIE9EMIMTuT/mEzoIMewUINruDBIR/jJnbguonqQ=="
+        crossorigin="anonymous"></script>
+    <script src="todo_2-5.js"></script>
+</body>
+
+</html>
