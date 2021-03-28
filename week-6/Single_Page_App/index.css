@@ -1,0 +1,97 @@
+body{
+     box-sizing: border-box;
+     margin: 0;
+     padding-left: 100px;
+     font-family: 'Patrick Hand',
+     cursive;
+     color: lime;
+     background-image: url("./images/rick_jail2.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+#header1{
+     text-align: center;
+     font-family: 'Syne Mono',
+     monospace;     
+     font-size: 80px;
+}
+
+#myList{
+     background-color: black;
+     padding: 20px;
+     margin: auto;
+     border-radius: 20px;
+}
+
+.images{
+     background-color: red;
+}
+
+
+
+@media only screen and (min-width: 600px) {
+body {
+     box-sizing: border-box;
+     margin: 0;
+     padding-left: 100px;
+     font-family: 'Patrick Hand',
+          cursive;
+     color: lime;
+     background-image: url("./images/rick_jail2.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+#header1 {
+     text-align: center;
+     font-family: 'Syne Mono',
+          monospace;
+     font-size: 80px;
+}
+
+#myList {
+     background-color: black;
+     padding: 20px;
+     margin: auto;
+     border-radius: 20px;
+}
+
+.images {
+     background-color: red;
+}
+}
+
+
+
+@media only screen and (min-width: 1024px){
+body {
+     box-sizing: border-box;
+     margin: 0;
+     padding-left: 100px;
+     font-family: 'Patrick Hand',
+          cursive;
+     color: lime;
+     background-image: url("./images/rick_jail2.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+#header1 {
+     text-align: center;
+     font-family: 'Syne Mono',
+          monospace;
+     font-size: 80px;
+}
+
+#myList {
+     background-color: black;
+     padding: 20px;
+     margin: auto;
+     border-radius: 20px;
+}
+
+.images {
+     background-color: red;
+}
+}
