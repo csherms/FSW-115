@@ -1,0 +1,43 @@
+body{
+     background-color: black;
+}
+
+html{
+     color: white;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.enterBox{
+     background-color: grey;
+     margin-left: 400px;
+     margin-right: 400px;
+     padding: 60px;
+     border-radius: 20px;
+     text-align: center;
+}
+
+.alltasks{
+     margin-right: 1200px;
+     margin-left: 400px;
+     margin-top: 20px;
+     padding: 20px;
+     border-radius: 20px;
+}
+
+.hiddenDiv{
+     text-align: center;
+     margin-left: 400px;
+     margin-right: 400px;
+     padding: 25px;
+     border-radius: 20px;
+     background-color: grey;
+}
+
+
+#box{
+     display: none;
+}
+
+@media only screen and (min-width: 1120px){
+     
+}
